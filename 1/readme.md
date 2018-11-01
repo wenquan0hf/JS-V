@@ -11,13 +11,13 @@
 - 首先，在 Sublime Text 中 输入下面的代码：
 
 ```html
-<!DOCTYPE html>
-<html>
-<head>
+<!DOCTYPE html>
+<html>
+<head>
   <meta charset="UTF-8">
-  <title>hello world</title>
+  <title>hello world</title>
 </head>
-<body>
+<body>
 <script src="hello_world.js"></script>
 </body>
 </html>
